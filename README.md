@@ -3,7 +3,7 @@ jQuery.roundImg
 
 What is this?
 -------------
-`.roundImg(value)` allows you to apply border-radius to images in modern browsers while maintaining css styling including box-shdows.
+`.roundImg(value)` allows you to apply border-radius to images in modern browsers while maintaining css styling including box-shadows.
 
 See the following article for information on the problem that this solves:
 
