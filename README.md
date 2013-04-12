@@ -12,8 +12,12 @@ See the following article for information on the problem that this solves:
 
 How do I use it?
 ----------------
-    $('.foo').roundImg('10px');
+```javascript
+$('.foo').roundImg('10px');
+```
 
 Or:
 
-    $('.foo').roundImg('10px 50px 10px 50px');
+```javascript
+$('.foo').roundImg('10px 50px 10px 50px');
+```
